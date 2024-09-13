@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./Navbar.module.css";
 import Logo from "../../assets/logo.png";
-import SearchBar from "../SearchBar/SearchBar";
+import SearchBar from "../Search/Search";
 import Button from "../Button/Button";
 
 export default function Navbar(){
